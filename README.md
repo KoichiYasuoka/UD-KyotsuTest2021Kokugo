@@ -1,7 +1,7 @@
 共通テスト2021『国語』問題文Universal Dependencies
 ====
 
-大学入学共通テスト『国語』(2021年1月16日実施)問題文に対し、Universal Dependenciesによる依存構造記述をおこなった。Google Colaboratory上でのベンチマーク結果とともに示す。
+大学入学共通テスト『国語』(2021年1月16日実施)の各問題文に対し、Universal Dependenciesによる依存構造記述をおこなった。Google Colaboratory上でのベンチマーク結果とともに示す。
 
 ## 第3問
 
