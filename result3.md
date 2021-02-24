@@ -5,7 +5,7 @@
 
 ### UniDic2UD 2.7.7
 
-|         |MeCab="wabun"    |MeCab="wakan"    |
+|         |UniDic="wabun"   |UniDic="wakan"   |
 |---------|-----------------|-----------------|
 |UniDic2UD|80.11/65.51/67.82|68.05/51.84/52.61|
 
