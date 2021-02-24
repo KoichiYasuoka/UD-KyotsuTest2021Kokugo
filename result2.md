@@ -54,6 +54,6 @@
 ### Stanza 1.2
 
 <table>
-<tr><th>lang="ja"</th><td>63.75 / 44.67 / 41.70</td</tr>
+<tr><th>lang="ja"</th><td>63.75 / 44.67 / 41.70</td></tr>
 </table>
 
