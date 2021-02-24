@@ -6,6 +6,7 @@
 ## 第3問
 
 * [CoNLL-U](question3.conllu)
+* [Google Colaboratory](https://colab.research.google.com/github/KoichiYasuoka/UD-KyotsuTest2021Kokugo/blob/main/benchmark3.ipynb)
 
 ## 参考文献
 
