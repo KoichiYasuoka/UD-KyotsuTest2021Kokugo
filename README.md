@@ -3,6 +3,12 @@
 
 大学入学共通テスト『国語』(2021年1月16日実施)の各問題文に対し、Universal Dependenciesによる依存構造記述をおこなった。Google Colaboratory上でのベンチマーク結果とともに示す。
 
+## 第2問
+
+* [問題文CoNLL-U](question2.conllu)
+* [Google Colaboratory](https://colab.research.google.com/github/KoichiYasuoka/UD-KyotsuTest2021Kokugo/blob/main/benchmark2.ipynb)
+* [ベンチマーク結果](result2.md)
+
 ## 第3問
 
 * [問題文CoNLL-U](question3.conllu)
