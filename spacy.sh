@@ -19,6 +19,6 @@ with open("'$TMP'","w",encoding="utf-8") as f:
       print("",file=f)
 '
 echo '###' $MODULE.$LOAD $CONLLU
-python3 ../conll18_ud_eval.py $CONLLU $TMP
+python3 $DIR/conll18_ud_eval.py $CONLLU $TMP
 rm -f $TMP
 exit 0
