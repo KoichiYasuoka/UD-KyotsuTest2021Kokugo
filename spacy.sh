@@ -3,7 +3,7 @@ DIR=`dirname $0`
 MODULE=${1-'unidic2ud.spacy'}
 LOAD=${2-'load("gendai")'}
 CONLLU=${3-"$DIR/question1.conllu"}
-TMP=/tmp/$MODULE.$$.$CONLLU
+TMP=/tmp/$MODULE.$$.`basename $CONLLU`
 
 python3 -c '
 import '$MODULE'
