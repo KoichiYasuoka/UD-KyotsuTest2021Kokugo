@@ -1,99 +1,99 @@
 # text = 凡御之所貴
 # text_ja = 凡そ御の貴ぶ所は
-1	凡	凡	VERB	v,動詞,描写,形質	Degree=Pos	5	advmod	_	Gloss=ordinary|SpaceAfter=No
-2	御	御	VERB	v,動詞,行為,交流	_	5	nsubj	_	Gloss=drive-a-chariot|SpaceAfter=No
-3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
-4	所	所	PART	p,助詞,接続,体言化	_	5	mark	_	Gloss=that-which|SpaceAfter=No
-5	貴	貴	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=noble|SpaceAfter=No
+1	凡	凡	VERB	v,動詞,描写,形質	Degree=Pos	5	advmod	_	SpaceAfter=No
+2	御	御	VERB	v,動詞,行為,交流	_	5	nsubj	_	SpaceAfter=No
+3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	SpaceAfter=No
+4	所	所	PART	p,助詞,接続,体言化	_	5	mark	_	SpaceAfter=No
+5	貴	貴	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	SpaceAfter=No
 
 # text = 馬体安于車
 # text_ja = 馬体車に安んじ
-1	馬	馬	NOUN	n,名詞,主体,動物	_	2	nmod	_	Gloss=horse|SpaceAfter=No
-2	体	體	NOUN	n,名詞,不可譲,身体	_	3	nsubj	_	Gloss=body|SpaceAfter=No
-3	安	安	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=peaceful|SpaceAfter=No
-4	于	于	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
-5	車	車	NOUN	n,名詞,可搬,乗り物	_	3	obl	_	Gloss=cart|SpaceAfter=No
+1	馬	馬	NOUN	n,名詞,主体,動物	_	2	nmod	_	SpaceAfter=No
+2	体	體	NOUN	n,名詞,不可譲,身体	_	3	nsubj	_	SpaceAfter=No
+3	安	安	VERB	v,動詞,行為,態度	_	0	root	_	SpaceAfter=No
+4	于	于	ADP	v,前置詞,基盤,*	_	5	case	_	SpaceAfter=No
+5	車	車	NOUN	n,名詞,可搬,乗り物	_	3	obl	_	SpaceAfter=No
 
 # text = 人心調于馬
 # text_ja = 人心馬に調ひ
-1	人	人	NOUN	n,名詞,人,人	_	2	nmod	_	Gloss=person|SpaceAfter=No
-2	心	心	NOUN	n,名詞,不可譲,身体	_	3	nsubj	_	Gloss=heart|SpaceAfter=No
-3	調	調	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=tune|SpaceAfter=No
-4	于	于	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
-5	馬	馬	NOUN	n,名詞,主体,動物	_	3	obl	_	Gloss=horse|SpaceAfter=No
+1	人	人	NOUN	n,名詞,人,人	_	2	nmod	_	SpaceAfter=No
+2	心	心	NOUN	n,名詞,不可譲,身体	_	3	nsubj	_	SpaceAfter=No
+3	調	調	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
+4	于	于	ADP	v,前置詞,基盤,*	_	5	case	_	SpaceAfter=No
+5	馬	馬	NOUN	n,名詞,主体,動物	_	3	obl	_	SpaceAfter=No
 
 # text = 而後可以進速致遠
 # text_ja = 而る後に以て進むこと速やかにして遠きを致すべし
-1	而	而	CCONJ	p,助詞,接続,並列	_	5	advmod	_	Gloss=and|SpaceAfter=No
-2	後	後	NOUN	n,名詞,時,*	Case=Tem	5	obl:tmod	_	Gloss=after|SpaceAfter=No
-3	可	可	AUX	v,助動詞,可能,*	Mood=Pot	5	aux	_	Gloss=possible|SpaceAfter=No
-4	以	以	VERB	v,動詞,行為,動作	_	3	fixed	_	Gloss=use|SpaceAfter=No
-5	進	進	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=advance|SpaceAfter=No
-6	速	速	VERB	v,動詞,描写,量	Degree=Pos	5	advmod	_	Gloss=speedy|SpaceAfter=No
-7	致	致	VERB	v,動詞,行為,動作	_	5	conj	_	Gloss=cause-to-arrive|SpaceAfter=No
-8	遠	遠	VERB	v,動詞,描写,量	Degree=Pos	7	obj	_	Gloss=distant|SpaceAfter=No
+1	而	而	CCONJ	p,助詞,接続,並列	_	5	advmod	_	SpaceAfter=No
+2	後	後	NOUN	n,名詞,時,*	Case=Tem	5	obl:tmod	_	SpaceAfter=No
+3	可	可	AUX	v,助動詞,可能,*	Mood=Pot	5	aux	_	SpaceAfter=No
+4	以	以	VERB	v,動詞,行為,動作	_	3	fixed	_	SpaceAfter=No
+5	進	進	VERB	v,動詞,行為,移動	_	0	root	_	SpaceAfter=No
+6	速	速	VERB	v,動詞,描写,量	Degree=Pos	5	advmod	_	SpaceAfter=No
+7	致	致	VERB	v,動詞,行為,動作	_	5	conj	_	SpaceAfter=No
+8	遠	遠	VERB	v,動詞,描写,量	Degree=Pos	7	obj	_	SpaceAfter=No
 
 # text = 今君後則欲逮臣
 # text_ja = 今君は後るれば則ち臣に逮ばんと欲し
-1	今	今	NOUN	n,名詞,時,*	Case=Tem	3	obl:tmod	_	Gloss=now|SpaceAfter=No
-2	君	君	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=ruler|SpaceAfter=No
-3	後	後	VERB	v,動詞,行為,移動	_	6	advcl	_	Gloss=back|SpaceAfter=No
-4	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	6	advmod	_	Gloss=then|SpaceAfter=No
-5	欲	欲	AUX	v,助動詞,願望,*	Mood=Des	6	aux	_	Gloss=wish|SpaceAfter=No
-6	逮	逮	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=while|SpaceAfter=No
-7	臣	臣	NOUN	n,名詞,人,役割	_	6	obj	_	Gloss=vassal|SpaceAfter=No
+1	今	今	NOUN	n,名詞,時,*	Case=Tem	3	obl:tmod	_	SpaceAfter=No
+2	君	君	NOUN	n,名詞,人,役割	_	3	nsubj	_	SpaceAfter=No
+3	後	後	VERB	v,動詞,行為,移動	_	6	advcl	_	SpaceAfter=No
+4	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	6	advmod	_	SpaceAfter=No
+5	欲	欲	AUX	v,助動詞,願望,*	Mood=Des	6	aux	_	SpaceAfter=No
+6	逮	逮	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
+7	臣	臣	NOUN	n,名詞,人,役割	_	6	obj	_	SpaceAfter=No
 
 # text = 先則恐逮于臣
 # text_ja = 先んずれば則ち臣に逮ばるるを恐る
-1	先	先	VERB	v,動詞,行為,移動	_	3	advmod	_	Gloss=precede|SpaceAfter=No
-2	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	3	advmod	_	Gloss=then|SpaceAfter=No
-3	恐	恐	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=fear|SpaceAfter=No
-4	逮	逮	VERB	v,動詞,行為,動作	_	3	ccomp	_	Gloss=while|SpaceAfter=No
-5	于	于	ADP	v,前置詞,基盤,*	_	6	case	_	Gloss=at|SpaceAfter=No
-6	臣	臣	NOUN	n,名詞,人,役割	_	4	obl	_	Gloss=vassal|SpaceAfter=No
+1	先	先	VERB	v,動詞,行為,移動	_	3	advmod	_	SpaceAfter=No
+2	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	3	advmod	_	SpaceAfter=No
+3	恐	恐	VERB	v,動詞,行為,態度	_	0	root	_	SpaceAfter=No
+4	逮	逮	VERB	v,動詞,行為,動作	_	3	ccomp	_	SpaceAfter=No
+5	于	于	ADP	v,前置詞,基盤,*	_	6	case	_	SpaceAfter=No
+6	臣	臣	NOUN	n,名詞,人,役割	_	4	obl	_	SpaceAfter=No
 
 # text = 夫誘道争遠
 # text_ja = 夫れ道に誘めて遠きを争ふは
-1	夫	夫	PART	p,助詞,句頭,*	_	2	discourse	_	Gloss=[modal-particle]|SpaceAfter=No
-2	誘	誘	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=lead|SpaceAfter=No
-3	道	道	NOUN	n,名詞,制度,儀礼	_	2	obj	_	Gloss=doctrine|SpaceAfter=No
-4	争	爭	VERB	v,動詞,行為,交流	_	2	parataxis	_	Gloss=quarrel|SpaceAfter=No
-5	遠	遠	VERB	v,動詞,描写,量	Degree=Pos	4	obj	_	Gloss=distant|SpaceAfter=No
+1	夫	夫	PART	p,助詞,句頭,*	_	2	discourse	_	SpaceAfter=No
+2	誘	誘	VERB	v,動詞,行為,交流	_	0	root	_	SpaceAfter=No
+3	道	道	NOUN	n,名詞,制度,儀礼	_	2	obj	_	SpaceAfter=No
+4	争	爭	VERB	v,動詞,行為,交流	_	2	parataxis	_	SpaceAfter=No
+5	遠	遠	VERB	v,動詞,描写,量	Degree=Pos	4	obj	_	SpaceAfter=No
 
 # text = 非先則後也
 # text_ja = 先んずるに非ざれば則ち後るるなり
-1	非	非	ADV	v,副詞,否定,体言否定	Polarity=Neg	2	advmod	_	Gloss=[negator-of-nouns]|SpaceAfter=No
-2	先	先	VERB	v,動詞,行為,移動	_	4	advcl	_	Gloss=precede|SpaceAfter=No
-3	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	4	advmod	_	Gloss=then|SpaceAfter=No
-4	後	後	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=back|SpaceAfter=No
-5	也	也	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
+1	非	非	ADV	v,副詞,否定,体言否定	Polarity=Neg	2	advmod	_	SpaceAfter=No
+2	先	先	VERB	v,動詞,行為,移動	_	4	advcl	_	SpaceAfter=No
+3	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	4	advmod	_	SpaceAfter=No
+4	後	後	VERB	v,動詞,行為,移動	_	0	root	_	SpaceAfter=No
+5	也	也	PART	p,助詞,句末,*	_	4	discourse:sp	_	SpaceAfter=No
 
 # text = 而先後心在于臣
 # text_ja = 而して先後の心は臣に在り
-1	而	而	CCONJ	p,助詞,接続,並列	_	5	advmod	_	Gloss=and|SpaceAfter=No
-2	先	先	VERB	v,動詞,行為,移動	_	4	acl	_	Gloss=precede|SpaceAfter=No
-3	後	後	VERB	v,動詞,行為,移動	_	2	flat:vv	_	Gloss=back|SpaceAfter=No
-4	心	心	NOUN	n,名詞,不可譲,身体	_	5	nsubj	_	Gloss=heart|SpaceAfter=No
-5	在	在	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=be-present|SpaceAfter=No
-6	于	于	ADP	v,前置詞,基盤,*	_	7	case	_	Gloss=at|SpaceAfter=No
-7	臣	臣	NOUN	n,名詞,人,役割	_	5	obl	_	Gloss=vassal|SpaceAfter=No
+1	而	而	CCONJ	p,助詞,接続,並列	_	5	advmod	_	SpaceAfter=No
+2	先	先	VERB	v,動詞,行為,移動	_	4	acl	_	SpaceAfter=No
+3	後	後	VERB	v,動詞,行為,移動	_	2	flat:vv	_	SpaceAfter=No
+4	心	心	NOUN	n,名詞,不可譲,身体	_	5	nsubj	_	SpaceAfter=No
+5	在	在	VERB	v,動詞,存在,存在	_	0	root	_	SpaceAfter=No
+6	于	于	ADP	v,前置詞,基盤,*	_	7	case	_	SpaceAfter=No
+7	臣	臣	NOUN	n,名詞,人,役割	_	5	obl	_	SpaceAfter=No
 
 # text = 尚何以調於馬
 # text_ja = 尚ほ何を以て馬に調はん
-1	尚	尙	VERB	v,動詞,行為,態度	_	4	advmod	_	Gloss=esteem|SpaceAfter=No
-2	何	何	PRON	n,代名詞,疑問,*	PronType=Int	3	obj	_	Gloss=what|SpaceAfter=No
-3	以	以	VERB	v,動詞,行為,動作	_	4	advcl	_	Gloss=use|SpaceAfter=No
-4	調	調	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=tune|SpaceAfter=No
-5	於	於	ADP	v,前置詞,基盤,*	_	6	case	_	Gloss=at|SpaceAfter=No
-6	馬	馬	NOUN	n,名詞,主体,動物	_	4	obl	_	Gloss=horse|SpaceAfter=No
+1	尚	尙	VERB	v,動詞,行為,態度	_	4	advmod	_	SpaceAfter=No
+2	何	何	PRON	n,代名詞,疑問,*	PronType=Int	3	obj	_	SpaceAfter=No
+3	以	以	VERB	v,動詞,行為,動作	_	4	advcl	_	SpaceAfter=No
+4	調	調	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
+5	於	於	ADP	v,前置詞,基盤,*	_	6	case	_	SpaceAfter=No
+6	馬	馬	NOUN	n,名詞,主体,動物	_	4	obl	_	SpaceAfter=No
 
 # text = 此君之所以後也
 # text_ja = 此れ君の後るる所以なり
-1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	6	nsubj	_	Gloss=this|SpaceAfter=No
-2	君	君	NOUN	n,名詞,人,役割	_	6	nsubj	_	Gloss=ruler|SpaceAfter=No
-3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
-4	所	所	PART	p,助詞,接続,体言化	_	5	case	_	Gloss=that-which|SpaceAfter=No
-5	以	以	VERB	v,動詞,行為,動作	_	6	advcl	_	Gloss=use|SpaceAfter=No
-6	後	後	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=back|SpaceAfter=No
-7	也	也	PART	p,助詞,句末,*	_	6	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
+1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	6	nsubj	_	SpaceAfter=No
+2	君	君	NOUN	n,名詞,人,役割	_	6	nsubj	_	SpaceAfter=No
+3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	SpaceAfter=No
+4	所	所	PART	p,助詞,接続,体言化	_	5	case	_	SpaceAfter=No
+5	以	以	VERB	v,動詞,行為,動作	_	6	advcl	_	SpaceAfter=No
+6	後	後	VERB	v,動詞,行為,移動	_	0	root	_	SpaceAfter=No
+7	也	也	PART	p,助詞,句末,*	_	6	discourse:sp	_	SpaceAfter=No
 

@@ -1,175 +1,175 @@
 # text = 吾有千里馬
 # text_ja = 吾に千里の馬有り
-1	吾	吾	PRON	n,代名詞,人称,起格	Person=1|PronType=Prs	2	nsubj	_	Gloss=[1PRON]|SpaceAfter=No
-2	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-3	千	千	NUM	n,数詞,数字,*	_	5	nmod	_	Gloss=thousand|SpaceAfter=No
-4	里	里	NOUN	n,名詞,度量衡,*	NounType=Clf	3	clf	_	Gloss=[distance-unit]|SpaceAfter=No
-5	馬	馬	NOUN	n,名詞,主体,動物	_	2	obj	_	Gloss=horse|SpaceAfter=No
+1	吾	吾	PRON	n,代名詞,人称,起格	Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No
+2	有	有	VERB	v,動詞,存在,存在	_	0	root	_	SpaceAfter=No
+3	千	千	NUM	n,数詞,数字,*	_	5	nmod	_	SpaceAfter=No
+4	里	里	NOUN	n,名詞,度量衡,*	NounType=Clf	3	clf	_	SpaceAfter=No
+5	馬	馬	NOUN	n,名詞,主体,動物	_	2	obj	_	SpaceAfter=No
 
 # text = 毛骨何蕭森
 # text_ja = 毛骨何ぞ蕭森たる
-1	毛	毛	NOUN	n,名詞,不可譲,身体	_	5	nsubj	_	Gloss=hair|SpaceAfter=No
-2	骨	骨	NOUN	n,名詞,不可譲,身体	_	1	conj	_	Gloss=bone|SpaceAfter=No
-3	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	5	advmod	_	Gloss=what|SpaceAfter=No
-4	蕭	蕭	VERB	v,動詞,描写,態度	Degree=Pos	5	amod	_	Gloss=dreary|SpaceAfter=No
-5	森	森	NOUN	n,名詞,固定物,樹木	_	0	root	_	Gloss=dense-trees|SpaceAfter=No
+1	毛	毛	NOUN	n,名詞,不可譲,身体	_	5	nsubj	_	SpaceAfter=No
+2	骨	骨	NOUN	n,名詞,不可譲,身体	_	1	conj	_	SpaceAfter=No
+3	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	5	advmod	_	SpaceAfter=No
+4	蕭	蕭	VERB	v,動詞,描写,態度	Degree=Pos	5	amod	_	SpaceAfter=No
+5	森	森	NOUN	n,名詞,固定物,樹木	_	0	root	_	SpaceAfter=No
 
 # text = 疾馳如奔風
 # text_ja = 疾く馳すれば奔風の如く
-1	疾	疾	VERB	v,動詞,行為,態度	_	2	advmod	_	Gloss=hurried|SpaceAfter=No
-2	馳	馳	VERB	v,動詞,行為,移動	_	3	csubj	_	Gloss=gallop|SpaceAfter=No
-3	如	如	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=be-like|SpaceAfter=No
-4	奔	奔	VERB	v,動詞,行為,移動	_	3	ccomp	_	Gloss=run|SpaceAfter=No
-5	風	風	NOUN	n,名詞,天象,気象	_	4	obj	_	Gloss=wind|SpaceAfter=No
+1	疾	疾	VERB	v,動詞,行為,態度	_	2	advmod	_	SpaceAfter=No
+2	馳	馳	VERB	v,動詞,行為,移動	_	3	csubj	_	SpaceAfter=No
+3	如	如	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	SpaceAfter=No
+4	奔	奔	VERB	v,動詞,行為,移動	_	3	ccomp	_	SpaceAfter=No
+5	風	風	NOUN	n,名詞,天象,気象	_	4	obj	_	SpaceAfter=No
 
 # text = 白日無留陰
 # text_ja = 白日に陰を留むる無し
-1	白	白	VERB	v,動詞,描写,形質	Degree=Pos	2	amod	_	Gloss=white|SpaceAfter=No
-2	日	日	NOUN	n,名詞,天象,天文	_	4	obl	_	Gloss=sun|SpaceAfter=No
-3	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	4	advmod	_	Gloss=not-have|SpaceAfter=No
-4	留	留	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=remain|SpaceAfter=No
-5	陰	陰	NOUN	n,名詞,固定物,関係	Case=Loc	4	obj	_	Gloss=shade|SpaceAfter=No
+1	白	白	VERB	v,動詞,描写,形質	Degree=Pos	2	amod	_	SpaceAfter=No
+2	日	日	NOUN	n,名詞,天象,天文	_	4	obl	_	SpaceAfter=No
+3	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	4	advmod	_	SpaceAfter=No
+4	留	留	VERB	v,動詞,行為,移動	_	0	root	_	SpaceAfter=No
+5	陰	陰	NOUN	n,名詞,固定物,関係	Case=Loc	4	obj	_	SpaceAfter=No
 
 # text = 徐駆当大道
 # text_ja = 徐に駆くれば大道に当たり
-1	徐	徐	VERB	v,動詞,行為,態度	_	2	advmod	_	Gloss=slow|SpaceAfter=No
-2	駆	驅	VERB	v,動詞,行為,移動	_	3	csubj	_	Gloss=drive-forward|SpaceAfter=No
-3	当	當	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=correspond-to|SpaceAfter=No
-4	大	大	VERB	v,動詞,描写,量	Degree=Pos	5	amod	_	Gloss=big|SpaceAfter=No
-5	道	道	NOUN	n,名詞,制度,儀礼	_	3	obj	_	Gloss=doctrine|SpaceAfter=No
+1	徐	徐	VERB	v,動詞,行為,態度	_	2	advmod	_	SpaceAfter=No
+2	駆	驅	VERB	v,動詞,行為,移動	_	3	csubj	_	SpaceAfter=No
+3	当	當	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
+4	大	大	VERB	v,動詞,描写,量	Degree=Pos	5	amod	_	SpaceAfter=No
+5	道	道	NOUN	n,名詞,制度,儀礼	_	3	obj	_	SpaceAfter=No
 
 # text = 歩驟中五音
 # text_ja = 歩驟は五音に中たる
-1	歩	步	VERB	v,動詞,行為,移動	_	3	nsubj	_	Gloss=walk|SpaceAfter=No
-2	驟	驟	VERB	v,動詞,行為,移動	_	1	flat:vv	_	Gloss=gallop|SpaceAfter=No
-3	中	中	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=hit|SpaceAfter=No
-4	五	五	NUM	n,数詞,数字,*	_	5	nummod	_	Gloss=five|SpaceAfter=No
-5	音	音	NOUN	n,名詞,可搬,伝達	_	3	obj	_	Gloss=sound|SpaceAfter=No
+1	歩	步	VERB	v,動詞,行為,移動	_	3	nsubj	_	SpaceAfter=No
+2	驟	驟	VERB	v,動詞,行為,移動	_	1	flat:vv	_	SpaceAfter=No
+3	中	中	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
+4	五	五	NUM	n,数詞,数字,*	_	5	nummod	_	SpaceAfter=No
+5	音	音	NOUN	n,名詞,可搬,伝達	_	3	obj	_	SpaceAfter=No
 
 # text = 馬雖有四足
 # text_ja = 馬に四足有りと雖も
-1	馬	馬	NOUN	n,名詞,主体,動物	_	3	nsubj	_	Gloss=horse|SpaceAfter=No
-2	雖	雖	ADV	v,副詞,判断,逆接	_	3	advmod	_	Gloss=although|SpaceAfter=No
-3	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-4	四	四	NUM	n,数詞,数字,*	_	5	nummod	_	Gloss=four|SpaceAfter=No
-5	足	足	NOUN	n,名詞,不可譲,身体	_	3	obj	_	Gloss=foot|SpaceAfter=No
+1	馬	馬	NOUN	n,名詞,主体,動物	_	3	nsubj	_	SpaceAfter=No
+2	雖	雖	ADV	v,副詞,判断,逆接	_	3	advmod	_	SpaceAfter=No
+3	有	有	VERB	v,動詞,存在,存在	_	0	root	_	SpaceAfter=No
+4	四	四	NUM	n,数詞,数字,*	_	5	nummod	_	SpaceAfter=No
+5	足	足	NOUN	n,名詞,不可譲,身体	_	3	obj	_	SpaceAfter=No
 
 # text = 遅速在吾心
 # text_ja = 遅速は吾が心に在り
-1	遅	遲	VERB	v,動詞,行為,態度	_	3	nsubj	_	Gloss=dilatory|SpaceAfter=No
-2	速	速	VERB	v,動詞,描写,量	Degree=Pos	1	flat:vv	_	Gloss=speedy|SpaceAfter=No
-3	在	在	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=be-present|SpaceAfter=No
-4	吾	吾	PRON	n,代名詞,人称,起格	Person=1|PronType=Prs	5	det	_	Gloss=[1PRON]|SpaceAfter=No
-5	心	心	NOUN	n,名詞,不可譲,身体	_	3	obj	_	Gloss=heart|SpaceAfter=No
+1	遅	遲	VERB	v,動詞,行為,態度	_	3	nsubj	_	SpaceAfter=No
+2	速	速	VERB	v,動詞,描写,量	Degree=Pos	1	flat:vv	_	SpaceAfter=No
+3	在	在	VERB	v,動詞,存在,存在	_	0	root	_	SpaceAfter=No
+4	吾	吾	PRON	n,代名詞,人称,起格	Person=1|PronType=Prs	5	det	_	SpaceAfter=No
+5	心	心	NOUN	n,名詞,不可譲,身体	_	3	obj	_	SpaceAfter=No
 
 # text = 六轡応吾手
 # text_ja = 六轡は吾が手に応じ
-1	六	六	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=six|SpaceAfter=No
-2	轡	轡	NOUN	n,名詞,可搬,道具	_	3	nsubj	_	Gloss=bridle|SpaceAfter=No
-3	応	應	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=answer|SpaceAfter=No
-4	吾	吾	PRON	n,代名詞,人称,起格	Person=1|PronType=Prs	5	det	_	Gloss=[1PRON]|SpaceAfter=No
-5	手	手	NOUN	n,名詞,不可譲,身体	_	3	obj	_	Gloss=hand|SpaceAfter=No
+1	六	六	NUM	n,数詞,数字,*	_	2	nummod	_	SpaceAfter=No
+2	轡	轡	NOUN	n,名詞,可搬,道具	_	3	nsubj	_	SpaceAfter=No
+3	応	應	VERB	v,動詞,行為,交流	_	0	root	_	SpaceAfter=No
+4	吾	吾	PRON	n,代名詞,人称,起格	Person=1|PronType=Prs	5	det	_	SpaceAfter=No
+5	手	手	NOUN	n,名詞,不可譲,身体	_	3	obj	_	SpaceAfter=No
 
 # text = 調和如瑟琴
 # text_ja = 調和すること瑟琴の如し
-1	調	調	VERB	v,動詞,行為,動作	_	3	nsubj	_	Gloss=tune|SpaceAfter=No
-2	和	和	VERB	v,動詞,描写,形質	Degree=Pos	1	flat:vv	_	Gloss=harmonious|SpaceAfter=No
-3	如	如	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=be-like|SpaceAfter=No
-4	瑟	瑟	NOUN	n,名詞,可搬,道具	_	3	obj	_	Gloss=zither|SpaceAfter=No
-5	琴	琴	NOUN	n,名詞,可搬,道具	_	4	conj	_	Gloss=zither|SpaceAfter=No
+1	調	調	VERB	v,動詞,行為,動作	_	3	nsubj	_	SpaceAfter=No
+2	和	和	VERB	v,動詞,描写,形質	Degree=Pos	1	flat:vv	_	SpaceAfter=No
+3	如	如	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	SpaceAfter=No
+4	瑟	瑟	NOUN	n,名詞,可搬,道具	_	3	obj	_	SpaceAfter=No
+5	琴	琴	NOUN	n,名詞,可搬,道具	_	4	conj	_	SpaceAfter=No
 
 # text = 東西与南北
 # text_ja = 東西と南北と
-1	東	東	NOUN	n,名詞,固定物,関係	Case=Loc	0	root	_	Gloss=east|SpaceAfter=No
-2	西	西	NOUN	n,名詞,固定物,関係	Case=Loc	1	flat	_	Gloss=west|SpaceAfter=No
-3	与	與	ADP	v,前置詞,関係,*	_	4	cc	_	Gloss=associate-with|SpaceAfter=No
-4	南	南	NOUN	n,名詞,固定物,関係	Case=Loc	1	conj	_	Gloss=south|SpaceAfter=No
-5	北	北	NOUN	n,名詞,固定物,関係	Case=Loc	4	flat	_	Gloss=north|SpaceAfter=No
+1	東	東	NOUN	n,名詞,固定物,関係	Case=Loc	0	root	_	SpaceAfter=No
+2	西	西	NOUN	n,名詞,固定物,関係	Case=Loc	1	flat	_	SpaceAfter=No
+3	与	與	ADP	v,前置詞,関係,*	_	4	cc	_	SpaceAfter=No
+4	南	南	NOUN	n,名詞,固定物,関係	Case=Loc	1	conj	_	SpaceAfter=No
+5	北	北	NOUN	n,名詞,固定物,関係	Case=Loc	4	flat	_	SpaceAfter=No
 
 # text = 高下山与林
 # text_ja = 山と林とを高下す
-1	高	高	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	Gloss=high|SpaceAfter=No
-2	下	下	VERB	v,動詞,行為,動作	_	1	flat:vv	_	Gloss=go-down|SpaceAfter=No
-3	山	山	NOUN	n,名詞,固定物,地形	Case=Loc	1	obj	_	Gloss=mountain|SpaceAfter=No
-4	与	與	ADP	v,前置詞,関係,*	_	5	cc	_	Gloss=associate-with|SpaceAfter=No
-5	林	林	NOUN	n,名詞,固定物,地形	Case=Loc	3	conj	_	Gloss=woods|SpaceAfter=No
+1	高	高	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	SpaceAfter=No
+2	下	下	VERB	v,動詞,行為,動作	_	1	flat:vv	_	SpaceAfter=No
+3	山	山	NOUN	n,名詞,固定物,地形	Case=Loc	1	obj	_	SpaceAfter=No
+4	与	與	ADP	v,前置詞,関係,*	_	5	cc	_	SpaceAfter=No
+5	林	林	NOUN	n,名詞,固定物,地形	Case=Loc	3	conj	_	SpaceAfter=No
 
 # text = 惟意所欲適
 # text_ja = 惟だ意の適かんと欲する所にして
-1	惟	惟	ADV	v,副詞,範囲,限定	_	5	advmod	_	Gloss=only|SpaceAfter=No
-2	意	意	VERB	v,動詞,行為,動作	_	5	nsubj	_	Gloss=think|SpaceAfter=No
-3	所	所	PART	p,助詞,接続,体言化	_	5	mark	_	Gloss=that-which|SpaceAfter=No
-4	欲	欲	AUX	v,助動詞,願望,*	Mood=Des	5	aux	_	Gloss=wish|SpaceAfter=No
-5	適	適	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=go-to|SpaceAfter=No
+1	惟	惟	ADV	v,副詞,範囲,限定	_	5	advmod	_	SpaceAfter=No
+2	意	意	VERB	v,動詞,行為,動作	_	5	nsubj	_	SpaceAfter=No
+3	所	所	PART	p,助詞,接続,体言化	_	5	mark	_	SpaceAfter=No
+4	欲	欲	AUX	v,助動詞,願望,*	Mood=Des	5	aux	_	SpaceAfter=No
+5	適	適	VERB	v,動詞,行為,移動	_	0	root	_	SpaceAfter=No
 
 # text = 九州可周尋
 # text_ja = 九州周く尋ぬべし
-1	九	九	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=nine|SpaceAfter=No
-2	州	州	NOUN	n,名詞,制度,場	Case=Loc	5	nsubj	_	Gloss=region|SpaceAfter=No
-3	可	可	AUX	v,助動詞,可能,*	Mood=Pot	5	aux	_	Gloss=possible|SpaceAfter=No
-4	周	周	VERB	v,動詞,行為,動作	_	5	advmod	_	Gloss=circuit|SpaceAfter=No
-5	尋	尋	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=seek|SpaceAfter=No
+1	九	九	NUM	n,数詞,数字,*	_	2	nummod	_	SpaceAfter=No
+2	州	州	NOUN	n,名詞,制度,場	Case=Loc	5	nsubj	_	SpaceAfter=No
+3	可	可	AUX	v,助動詞,可能,*	Mood=Pot	5	aux	_	SpaceAfter=No
+4	周	周	VERB	v,動詞,行為,動作	_	5	advmod	_	SpaceAfter=No
+5	尋	尋	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
 
 # text = 至哉人与馬
 # text_ja = 至れるかな人と馬と
-1	至	至	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=arrive|SpaceAfter=No
-2	哉	哉	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[exclamatory-particle]|SpaceAfter=No
-3	人	人	NOUN	n,名詞,人,人	_	1	dislocated	_	Gloss=person|SpaceAfter=No
-4	与	與	ADP	v,前置詞,関係,*	_	5	cc	_	Gloss=associate-with|SpaceAfter=No
-5	馬	馬	NOUN	n,名詞,主体,動物	_	3	conj	_	Gloss=horse|SpaceAfter=No
+1	至	至	VERB	v,動詞,行為,移動	_	0	root	_	SpaceAfter=No
+2	哉	哉	PART	p,助詞,句末,*	_	1	discourse:sp	_	SpaceAfter=No
+3	人	人	NOUN	n,名詞,人,人	_	1	dislocated	_	SpaceAfter=No
+4	与	與	ADP	v,前置詞,関係,*	_	5	cc	_	SpaceAfter=No
+5	馬	馬	NOUN	n,名詞,主体,動物	_	3	conj	_	SpaceAfter=No
 
 # text = 両楽不相侵
 # text_ja = 両楽相侵さず
-1	両	兩	NOUN	n,名詞,数量,*	_	2	nmod	_	Gloss=pair|SpaceAfter=No
-2	楽	樂	NOUN	n,名詞,描写,態度	_	5	nsubj	_	Gloss=joy|SpaceAfter=No
-3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	5	advmod	_	Gloss=not|SpaceAfter=No
-4	相	相	ADV	v,副詞,範囲,共同	_	5	advmod	_	Gloss=each-other|SpaceAfter=No
-5	侵	侵	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=invade|SpaceAfter=No
+1	両	兩	NOUN	n,名詞,数量,*	_	2	nmod	_	SpaceAfter=No
+2	楽	樂	NOUN	n,名詞,描写,態度	_	5	nsubj	_	SpaceAfter=No
+3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	5	advmod	_	SpaceAfter=No
+4	相	相	ADV	v,副詞,範囲,共同	_	5	advmod	_	SpaceAfter=No
+5	侵	侵	VERB	v,動詞,行為,交流	_	0	root	_	SpaceAfter=No
 
 # text = 伯楽識其外
 # text_ja = 伯楽は其の外を識るも
-1	伯楽	伯楽	PROPN	n,名詞,人,名	NameType=Giv	2	nsubj	_	Gloss=[given-name]|SpaceAfter=No
-2	識	識	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=recognize|SpaceAfter=No
-3	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	4	det	_	Gloss=[3PRON]|SpaceAfter=No
-4	外	外	NOUN	n,名詞,固定物,関係	Case=Loc	2	obj	_	Gloss=outside|SpaceAfter=No
+1	伯楽	伯楽	PROPN	n,名詞,人,名	NameType=Giv	2	nsubj	_	SpaceAfter=No
+2	識	識	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
+3	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	4	det	_	SpaceAfter=No
+4	外	外	NOUN	n,名詞,固定物,関係	Case=Loc	2	obj	_	SpaceAfter=No
 
 # text = 徒知価千金
 # text_ja = 徒だ価の千金なるを知る
-1	徒	徒	ADV	v,副詞,範囲,限定	_	2	advmod	_	Gloss=only|SpaceAfter=No
-2	知	知	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=know|SpaceAfter=No
-3	価	價	NOUN	n,名詞,可搬,成果物	_	2	obj	_	Gloss=price|SpaceAfter=No
-4	千	千	NUM	n,数詞,数字,*	_	5	nummod	_	Gloss=thousand|SpaceAfter=No
-5	金	金	NOUN	n,名詞,可搬,道具	_	2	xcomp	_	Gloss=metal|SpaceAfter=No
+1	徒	徒	ADV	v,副詞,範囲,限定	_	2	advmod	_	SpaceAfter=No
+2	知	知	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
+3	価	價	NOUN	n,名詞,可搬,成果物	_	2	obj	_	SpaceAfter=No
+4	千	千	NUM	n,数詞,数字,*	_	5	nummod	_	SpaceAfter=No
+5	金	金	NOUN	n,名詞,可搬,道具	_	2	xcomp	_	SpaceAfter=No
 
 # text = 王良得其性
 # text_ja = 王良は其の性を得たり
-1	王	王	PROPN	n,名詞,人,姓氏	NameType=Sur	3	nsubj	_	Gloss=[surname]|SpaceAfter=No
-2	良	良	PROPN	n,名詞,人,名	NameType=Giv	1	flat	_	Gloss=[given-name]|SpaceAfter=No
-3	得	得	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=get|SpaceAfter=No
-4	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	5	det	_	Gloss=[3PRON]|SpaceAfter=No
-5	性	性	NOUN	n,名詞,不可譲,属性	_	3	obj	_	Gloss=nature|SpaceAfter=No
+1	王	王	PROPN	n,名詞,人,姓氏	NameType=Sur	3	nsubj	_	SpaceAfter=No
+2	良	良	PROPN	n,名詞,人,名	NameType=Giv	1	flat	_	SpaceAfter=No
+3	得	得	VERB	v,動詞,行為,得失	_	0	root	_	SpaceAfter=No
+4	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	5	det	_	SpaceAfter=No
+5	性	性	NOUN	n,名詞,不可譲,属性	_	3	obj	_	SpaceAfter=No
 
 # text = 此術固已深
 # text_ja = 此術固り已に深し
-1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	術	術	NOUN	n,名詞,可搬,伝達	_	5	nsubj	_	Gloss=skill|SpaceAfter=No
-3	固	固	ADV	v,副詞,判断,確定	_	5	advmod	_	Gloss=certainly|SpaceAfter=No
-4	已	已	ADV	v,副詞,時相,完了	AdvType=Tim|Aspect=Perf	5	advmod	_	Gloss=already|SpaceAfter=No
-5	深	深	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	Gloss=deep|SpaceAfter=No
+1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	SpaceAfter=No
+2	術	術	NOUN	n,名詞,可搬,伝達	_	5	nsubj	_	SpaceAfter=No
+3	固	固	ADV	v,副詞,判断,確定	_	5	advmod	_	SpaceAfter=No
+4	已	已	ADV	v,副詞,時相,完了	AdvType=Tim|Aspect=Perf	5	advmod	_	SpaceAfter=No
+5	深	深	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	SpaceAfter=No
 
 # text = 良馬須善馭
 # text_ja = 良馬は善馭を須つ
-1	良	良	VERB	v,動詞,描写,形質	Degree=Pos	2	amod	_	Gloss=good|SpaceAfter=No
-2	馬	馬	NOUN	n,名詞,主体,動物	_	5	nsubj	_	Gloss=horse|SpaceAfter=No
-3	須	須	AUX	v,助動詞,必要,*	Mood=Nec	5	aux	_	Gloss=need|SpaceAfter=No
-4	善	善	VERB	v,動詞,描写,態度	Degree=Pos	5	advmod	_	Gloss=good|SpaceAfter=No
-5	馭	馭	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=drive-a-carriage|SpaceAfter=No
+1	良	良	VERB	v,動詞,描写,形質	Degree=Pos	2	amod	_	SpaceAfter=No
+2	馬	馬	NOUN	n,名詞,主体,動物	_	5	nsubj	_	SpaceAfter=No
+3	須	須	AUX	v,助動詞,必要,*	Mood=Nec	5	aux	_	SpaceAfter=No
+4	善	善	VERB	v,動詞,描写,態度	Degree=Pos	5	advmod	_	SpaceAfter=No
+5	馭	馭	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
 
 # text = 吾言可為箴
 # text_ja = 吾が言箴と為すべし
-1	吾	吾	PRON	n,代名詞,人称,起格	Person=1|PronType=Prs	2	det	_	Gloss=[1PRON]|SpaceAfter=No
-2	言	言	NOUN	n,名詞,可搬,伝達	_	4	nsubj	_	Gloss=speech|SpaceAfter=No
-3	可	可	AUX	v,助動詞,可能,*	Mood=Pot	4	aux	_	Gloss=possible|SpaceAfter=No
-4	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
-5	箴	箴	NOUN	n,名詞,可搬,伝達	_	4	obj	_	Gloss=remonstrance|SpaceAfter=No
+1	吾	吾	PRON	n,代名詞,人称,起格	Person=1|PronType=Prs	2	det	_	SpaceAfter=No
+2	言	言	NOUN	n,名詞,可搬,伝達	_	4	nsubj	_	SpaceAfter=No
+3	可	可	AUX	v,助動詞,可能,*	Mood=Pot	4	aux	_	SpaceAfter=No
+4	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	SpaceAfter=No
+5	箴	箴	NOUN	n,名詞,可搬,伝達	_	4	obj	_	SpaceAfter=No
 
