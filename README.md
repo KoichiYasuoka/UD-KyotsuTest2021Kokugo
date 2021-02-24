@@ -5,9 +5,16 @@
 
 ## 第3問
 
-* [CoNLL-U](question3.conllu)
+* [問題文CoNLL-U](question3.conllu)
 * [Google Colaboratory](https://colab.research.google.com/github/KoichiYasuoka/UD-KyotsuTest2021Kokugo/blob/main/benchmark3.ipynb)
 * [ベンチマーク結果](result3.md)
+
+## 第4問
+
+* [【問題文Ⅰ】CoNLL-U](question4-1.conllu)
+* [【問題文Ⅱ】CoNLL-U](question4-2.conllu)
+* [Google Colaboratory](https://colab.research.google.com/github/KoichiYasuoka/UD-KyotsuTest2021Kokugo/blob/main/benchmark4.ipynb)
+* [ベンチマーク結果](result4.md)
 
 ## 参考文献
 
