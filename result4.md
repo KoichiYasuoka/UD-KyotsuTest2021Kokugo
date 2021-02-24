@@ -1,0 +1,13 @@
+[共通テスト2021『国語』問題文Universal Dependencies](https://github.com/KoichiYasuoka/UD-KyotsuTest2021Kokugo)
+====
+
+## 第4問 (LAS / MLAS / BLEX)
+
+### UD-Kanbun 2.8.3
+
+|   |【問題文Ⅰ】|【問題文Ⅱ】|
+|---|:---------:|:---------:|
+|**BERT="guwenbert-base"** |76.15 / 71.28 / 74.47|84.85 / 78.18 / 81.82|
+|**BERT="guwenbert-large"**|74.31 / 70.21 / 71.28|86.36 / 80.00 / 83.64|
+|**BERT=None**             |72.48 / 66.67 / 68.78|78.79 / 73.39 / 77.06|
+
