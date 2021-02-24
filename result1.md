@@ -43,3 +43,17 @@
 |**BERT="unihanlm-base"**|76.88 / 60.00 / 65.18|77.09 / 60.04 / 65.33|
 |**BERT="distilbert-base-japanese"**|78.87 / 63.36 / 68.44|79.08 / 63.52 / 68.60|
 
+### GiNZA 4.0.5
+
+<table>
+<tr><th>--split-mode=A</th><td>65.57 / 43.62 / 37.99</td></tr>
+<tr><th>--split-mode=B</th><td>67.38 / 44.69 / 39.09</td></tr>
+<tr><th>--split-mode=C</th><td>67.05 / 44.19 / 38.58</td></tr>
+</table>
+
+### Stanza 1.2
+
+<table>
+<tr><th>lang="ja"</th><td>72.19 / 47.94 / 45.30</td></tr>
+</table>
+
