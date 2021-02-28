@@ -46,22 +46,22 @@
 ### GiNZA 4.0.5
 
 <table>
-<tr><th>--split-mode=A</th><td>65.57 / 43.62 / 37.99</td></tr>
-<tr><th>--split-mode=B</th><td>67.38 / 44.69 / 39.09</td></tr>
-<tr><th>--split-mode=C</th><td>67.05 / 44.19 / 38.58</td></tr>
+<tr><th align="left">--split-mode=A</th><td>65.57 / 43.62 / 37.99</td></tr>
+<tr><th align="left">--split-mode=B</th><td>67.38 / 44.69 / 39.09</td></tr>
+<tr><th align="left">--split-mode=C</th><td>67.05 / 44.19 / 38.58</td></tr>
 </table>
 
 ### Stanza 1.2
 
 <table>
-<tr><th>lang="ja"</th><td>72.19 / 47.94 / 45.30</td></tr>
+<tr><th align="left">lang="ja"</th><td>72.19 / 47.94 / 45.30</td></tr>
 </table>
 
 ### spaCy 3.0.3
 
 <table>
-<tr><th>name="ja_core_news_sm"</th><td>68.40 / 44.03 / 40.50</td></tr>
-<tr><th>name="ja_core_news_md"</th><td>68.87 / 45.15 / 41.29</td></tr>
-<tr><th>name="ja_core_news_lg"</th><td>69.06 / 45.18 / 41.54</td></tr>
+<tr><th align="left">name="ja_core_news_sm"</th><td>68.40 / 44.03 / 40.50</td></tr>
+<tr><th align="left">name="ja_core_news_md"</th><td>68.87 / 45.15 / 41.29</td></tr>
+<tr><th align="left">name="ja_core_news_lg"</th><td>69.06 / 45.18 / 41.54</td></tr>
 </table>
 
