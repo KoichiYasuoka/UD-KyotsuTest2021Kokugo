@@ -57,3 +57,11 @@
 <tr><th>lang="ja"</th><td>63.75 / 44.67 / 41.70</td></tr>
 </table>
 
+### spaCy 3.0.3
+
+<table>
+<tr><th>name="ja_core_news_sm"</th><td>63.46 / 43.11 / 40.08</td></tr>
+<tr><th>name="ja_core_news_md"</th><td>64.90 / 44.34 / 41.29</td></tr>
+<tr><th>name="ja_core_news_lg"</th><td>66.63 / 45.55 / 42.42</td></tr>
+</table>
+
