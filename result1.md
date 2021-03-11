@@ -3,38 +3,40 @@
 
 ## 第1問 (LAS / MLAS / BLEX)
 
-### UniDic2UD 2.7.7
+### UniDic2UD 2.7.9
 
 |   |UniDic="gendai"|UniDic="spoken"|
 |---|:-------------:|:-------------:|
 |**UniDic2UD**|79.30 / 62.51 / 66.98|79.37 / 62.71 / 67.06|
 
-### UniDic-COMBO 1.1.8
+### UniDic-COMBO 1.2.1
 
 |   |UniDic="gendai"|UniDic="spoken"|
 |---|:-------------:|:-------------:|
 |**BERT=True** |79.82 / 64.13 / 70.55|80.12 / 64.29 / 70.71|
 |**BERT=False**|75.56 / 56.96 / 62.48|75.95 / 57.03 / 62.67|
 
-### spaCy-SynCha 0.8.3
+### spaCy-SynCha 0.8.4
 
 |   |UniDic="gendai"|UniDic="spoken"|
 |---|:-------------:|:-------------:|
 |**spaCy-SynCha**|63.90 / 39.60 / 46.08|64.01 / 39.22 / 45.58|
 
-### spaCy-ChaPAS 0.8.0
+### spaCy-ChaPAS 0.8.1
 
 |   |UniDic="gendai"|UniDic="spoken"|
 |---|:-------------:|:-------------:|
 |**spaCy-ChaPAS**|60.35 / 40.28 / 45.75|60.51 / 40.07 / 45.43|
 
-### SuPar-UniDic 0.7.0
+### SuPar-UniDic 0.7.6
 
 |   |UniDic="gendai"|UniDic="spoken"|
 |---|:-------------:|:-------------:|
 |**BERT="bert-japanese-aozora6m3m-unidic32k-2m"**|78.40 / 63.02 / 67.49|78.61 / 63.05 / 67.65|
 |**BERT="bert-base-japanese-char"**|78.16 / 63.09 / 67.10|78.37 / 63.13 / 67.26|
 |**BERT="bert-base-japanese-whole-word-masking"**|78.68 / 62.93 / 68.12|78.89 / 63.09 / 68.28|
+|**BERT="bert-large-japanese"**|78.26 / 62.41 / 68.44|78.51 / 62.57 / 68.72|
+|**BERT="bert-large-japanese-char"**|77.80 / 62.06 / 66.78|77.74 / 62.11 / 67.65|
 |**BERT="electra-small-japanese-generator"**|77.74 / 62.11 / 67.65|77.94 / 62.26 / 67.81|
 |**BERT="ku-bert-japanese-large"**|79.01 / 64.70 / 69.19|79.22 / 64.86 / 69.34|
 |**BERT="laboro-bert-japanese-large"**|77.40 / 61.44 / 66.51|77.61 / 61.59 / 66.67|
@@ -57,7 +59,7 @@
 <tr><th align="left">lang="ja"</th><td>72.19 / 47.94 / 45.30</td></tr>
 </table>
 
-### spaCy 3.0.3
+### spaCy 3.0.5
 
 <table>
 <tr><th align="left">name="ja_core_news_sm"</th><td>68.40 / 44.03 / 40.50</td></tr>
