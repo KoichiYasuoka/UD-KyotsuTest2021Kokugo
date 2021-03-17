@@ -28,15 +28,15 @@
 |---|:-------------:|:-------------:|
 |**spaCy-ChaPAS**|60.35 / 40.28 / 45.75|60.51 / 40.07 / 45.43|
 
-### SuPar-UniDic 0.7.8
+### SuPar-UniDic 0.8.0
 
 |   |UniDic="gendai"|UniDic="spoken"|
 |---|:-------------:|:-------------:|
-|**BERT="bert-japanese-aozora6m3m-unidic32k-2m"**|78.40 / 63.02 / 67.49|78.61 / 63.05 / 67.65|
+|**BERT="bert-japanese-aozora6m3m-unidic32k-2m"**|78.16 / 62.50 / 67.22|78.37 / 62.54 / 67.37|
 |**BERT="bert-base-japanese-char"**|78.16 / 63.09 / 67.10|78.37 / 63.13 / 67.26|
 |**BERT="bert-base-japanese-whole-word-masking"**|78.68 / 62.93 / 68.12|78.89 / 63.09 / 68.28|
-|**BERT="bert-large-japanese"**|78.92 / 63.20 / 68.87|79.13 / 63.24 / 69.03|
-|**BERT="bert-large-japanese-char"**|79.06 / 63.53 / 68.94|79.27 / 63.57 / 69.10|
+|**BERT="bert-large-japanese"**|78.30 / 62.84 / 67.34|78.51 / 63.00 / 67.50|
+|**BERT="bert-large-japanese-char"**|79.68 / 64.43 / 69.61|79.89 / 64.58 / 69.77|
 |**BERT="electra-small-japanese-generator"**|77.74 / 62.11 / 67.65|77.94 / 62.26 / 67.81|
 |**BERT="ku-bert-japanese-large"**|79.01 / 64.70 / 69.19|79.22 / 64.86 / 69.34|
 |**BERT="laboro-bert-japanese-large"**|77.40 / 61.44 / 66.51|77.61 / 61.59 / 66.67|
